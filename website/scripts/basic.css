@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	font-weight: 250;
+	text-align: left;
+	padding: 25px;
+}
+
+h1 {
+	color: #AA3939;
+	text-align: center;
+}
+
+p {
+	color: #AA6C39;
+	font-size: 15px;
+}
+
+li {
+	background-color: #226666;
+	display: inline;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 3px;
+	margin-right: 3px;
+	border-radius: 3px 3px 0 0;
+}
+
+li:hover {
+	background-color: #669999;
+}
